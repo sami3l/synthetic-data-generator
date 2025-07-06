@@ -308,7 +308,7 @@ We welcome contributions! Please follow these steps:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/synthetic-data-generator.git
+git clone https://github.com/sami3l/synthetic-data-generator.git
 cd synthetic-data-generator
 pip install -r requirements.txt
 python -m pytest tests/
