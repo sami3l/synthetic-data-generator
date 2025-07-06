@@ -320,8 +320,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/synthetic-data-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/synthetic-data-generator/discussions)
+- **Issues**: [GitHub Issues](https://github.com/sami3l/synthetic-data-generator/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/sami3l/synthetic-data-generator/discussions)
 - **Email**: elhadraoui.sami@emsi-edu.ma
 
 ## 🙏 Acknowledgments
